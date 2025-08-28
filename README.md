@@ -1,4 +1,5 @@
-# Example headings
+You are now at..
+# redrockguy.github.io
 
 ## Sample Section
 
