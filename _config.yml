@@ -1,2 +1,6 @@
-# Insert your theme:
+title: redrokcguy
+description: cool website for cool people
+show_downloads: true
+google_analytics:
+# Theme here:
 theme: jekyll-theme-cayman
