@@ -4,3 +4,5 @@ show_downloads: false
 google_analytics:
 # Theme here:
 theme: jekyll-theme-cayman
+## buttons
+  <button type="button">Click Me</button>
