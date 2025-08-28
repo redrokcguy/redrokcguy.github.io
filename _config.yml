@@ -1,6 +1,6 @@
-title: redrokcguy
-description: cool website for cool people
-show_downloads: true
+title: redrokcguy.github.io
+description: cool place for cool people
+show_downloads: false
 google_analytics:
 # Theme here:
 theme: jekyll-theme-cayman
