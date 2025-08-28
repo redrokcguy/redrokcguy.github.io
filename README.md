@@ -1,2 +1,2 @@
 ## redrokcguy
-_cool place for cool people_
+_welcome to the_ **HOME** _page._
