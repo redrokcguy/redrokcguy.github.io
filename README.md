@@ -1,31 +1,24 @@
-# H1 Heading
-## H2 Heading
-### H3 Heading
-#### H4 Heading
-##### H5 Heading
-###### H6 Heading
+# Example headings
 
-**Bold text** or __Bold text__
-*Italic text* or _Italic text_
-***Bold and Italic text***
-~~Strikethrough text~~
-`Inline code`
+## Sample Section
 
-**Unordered List:**
-- Item 1
-- Item 2
-  - Sub-item 2.1
-* Item 3
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
-**Ordered List:**
-1. First item
-2. Second item
-   1. Sub-item 2.1
-3. Third item
+## This heading is not unique in the file
 
-**Inline Code:**
-`This is inline code.`
+TEXT 1
 
-**Code Block (Fenced):**
-```python
-print("Hello, World!")
+## This heading is not unique in the file
+
+TEXT 2
+
+# Links to the example headings above
+
+Link to the sample section: [Link Text](#sample-section).
+
+Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
