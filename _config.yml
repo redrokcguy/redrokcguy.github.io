@@ -5,4 +5,7 @@ google_analytics:
 # Theme here:
 theme: jekyll-theme-cayman
 ## buttons
-
+main_button:
+  text: "Learn More"
+  url: "/about/"
+  class: "btn btn-primary"
